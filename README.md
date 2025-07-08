@@ -12,7 +12,7 @@ Cours pertinents :
 - Agroécologie, développement durable, ges on de ressources ;
 - Traitement de donnés, sta s que expérimentale.
 
-Thèse/mémoire : Bilan Carbone d'un domaine vi cole et conséquences poten elles sur sa ges on.
+Thèse/mémoire : Bilan Carbone d'un domaine viticole et conséquences poten elles sur sa ges on.
 
 **INGÉNIEUR AGRONOME | Université de São Paulo (ESALQ/USP) (_août 2022_)**
 Fondamentaux des sciences de l'ingénieur et agronomie. 
@@ -27,6 +27,7 @@ Cours pertinents :
 ## Expériences professionelles 
 
 **ADJOINT DE CHEF DE CULTURE VITICOLE - CHATEAU DE MARMORIERES (_juillet 2023 - juillet 2024_)**
+
 Responsable opértionnel et technique de la prodution vi-vinicole. 
 Assistant de l’agronome responsable.
 - Travail de cave, getion de la mise en bouteille, vinifica on et la culture de la vigne ;
@@ -34,6 +35,7 @@ Assistant de l’agronome responsable.
 - Veille du système d’irrigation.
 
 **STAGIAIRE - SARL Armand Heitz (Domaine Viticole) (_février 2021 - août 2021_)**
+
 Réalisation d’un mémoire de fin d’études au sein d’entreprise. 
 Recherche et développement : 
 - Réalisa on d’un bilan carbone dans un domaine vticole ;
@@ -46,4 +48,5 @@ Travail de terrain :
 Langues maternelles : Portugais 
 Autres langues : 
 - Anglais - C1 | Français - C1 | Espagnol - B1
-Niveaux : A1 et A2 : u lisateur de base ; B1 et B2 : u lisateur indépendant ; C1 et C2 : u lisateur expérimenté.
+
+Niveaux : A1 et A2 : utilisateur de base ; B1 et B2 : utilisateur indépendant ; C1 et C2 : utilisateur expérimenté.
