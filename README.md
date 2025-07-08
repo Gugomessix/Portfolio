@@ -18,7 +18,7 @@ Fondamentaux des sciences de l'ingénieur et agronomie.
 Parcours Double diplôme.
 
 Cours pertinents :
-- Planifica on et getion de la prodution agricole ;
+- Planification et gestion de la production agricole ;
 - Topographie et géotraitement ;
 - Phytopathologie, physiologie végétale et irrigation ;
 - Qualité et production des semences.
