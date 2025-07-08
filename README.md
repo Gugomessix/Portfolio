@@ -45,7 +45,8 @@ Travail de terrain :
 - Semis de la couverture de sol inter-rang.
   
 ## Competences
-Langues maternelles : Portugais 
+Langues maternelles : Portugais
+
 Autres langues : 
 - Anglais - C1 | Français - C1 | Espagnol - B1
 
