@@ -9,11 +9,12 @@ Analyse de données | Expérimentation végétale | Agroécologie | Viticulture
 Spécialisation en vticulture et agroécologie ; 
 
 Cours pertinents : 
-- Agroécologie, développement durable, ges on de ressources ;
+- Agroécologie, développement durable, gestion de ressources ;
 - Traitement de donnés, statistique expérimentale.
 Thèse/mémoire : Bilan Carbone d'un domaine viticole et conséquences potentielles sur sa gestion.
 
 **INGÉNIEUR AGRONOME | Université de São Paulo (ESALQ/USP) (_août 2022_)**
+
 Fondamentaux des sciences de l'ingénieur et agronomie. 
 Parcours Double diplôme.
 
@@ -29,7 +30,7 @@ Cours pertinents :
 
 Responsable opértionnel et technique de la prodution vi-vinicole. 
 Assistant de l’agronome responsable.
-- Travail de cave, getion de la mise en bouteille, vinifica on et la culture de la vigne ;
+- Travail de cave, gestion de la mise en bouteille, vinification et la culture de la vigne ;
 - Responsable de la qualité de production et de l’efficacité de l’exploitation ;
 - Veille du système d’irrigation.
 
@@ -37,7 +38,7 @@ Assistant de l’agronome responsable.
 
 Réalisation d’un mémoire de fin d’études au sein d’entreprise. 
 Recherche et développement : 
-- Réalisa on d’un bilan carbone dans un domaine vticole ;
+- Réalisation d’un bilan carbone dans un domaine viticole ;
 - Valorisation des données et mise en place d'un logiciel d'analyse.
 Travail de terrain : 
 - Planification et plantation des nouvelles parcelles viticoles (SIG) ;
