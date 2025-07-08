@@ -50,3 +50,5 @@ Autres langues :
 - Anglais - C1 | Français - C1 | Espagnol - B1
 
 Niveaux : A1 et A2 : utilisateur de base ; B1 et B2 : utilisateur indépendant ; C1 et C2 : utilisateur expérimenté.
+
+[LinkedIn](https://www.linkedin.com/in/gustavo-gomes-six/)
