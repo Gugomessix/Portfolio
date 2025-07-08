@@ -14,7 +14,6 @@ Cours pertinents :
 Thèse/mémoire : Bilan Carbone d'un domaine viticole et conséquences potentielles sur sa gestion.
 
 **INGÉNIEUR AGRONOME | Université de São Paulo (ESALQ/USP) (_août 2022_)**
-
 Fondamentaux des sciences de l'ingénieur et agronomie. 
 Parcours Double diplôme.
 
